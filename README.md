@@ -4,7 +4,6 @@
 <ul>
 	<li><b>Metacognição</b> - Estrutura para entender o pensar como você pensa;</li>
 	<li><b>Abstração</b> - Concentração de aspectos, ignorando características de menor geração de valor ao produto;</li>
-	<li></li>
 </ul> <br>
 
 <img src="img/PortugolEstruture.PNG">
@@ -14,8 +13,9 @@
 <img src="img/Fluxograma.jpg">
 
 <br>
+<p>Apresentação do dashboard da IDE:</p>
 <img src="img/telaPortugol.jpg">
-<p>Fonte: <a href="https://pt.wikipedia.org/wiki/Portugol_Studio#/media/Ficheiro:Tela_Portugol.jpg"></a> clique aqui.</p>
+<p>Fonte: <a href="https://pt.wikipedia.org/wiki/Portugol_Studio#/media/Ficheiro:Tela_Portugol.jpg">clique aqui.</a></p>
 
 <hr><br>
 <h2>Sobre...</h2>
@@ -29,7 +29,3 @@ Link do Portugol: https://github.com/UNIVALI-LITE/Portugol-Studio</p>
 Por RYAN CASTRO FERREIRA,<br>
 <b style="color: blue;">LinkdIn </b>- https://www.linkedin.com/in/ryan-castro-ferreira/ <br>
 <b style="color: red;">Email </b>- ryancasf@gmail.com <br>
-
-<hr><br>
-<h2></h2>
-<img src="">
