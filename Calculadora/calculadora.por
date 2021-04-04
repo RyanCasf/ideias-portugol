@@ -3,17 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		
-	}
-
-	funcao var()
-	{
-		inteiro numero = 4
-		real decimal = 5.5
-		caracter sexo1 = 'M'
-		cadeia nome = "Ryan Castro Ferreira"
-		// Concatenação (+""+)
-		logico boolean = 1==1
+		escreva("CALCULADORA\n\n")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -21,7 +11,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 56; 
+ * @POSICAO-CURSOR = 64; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
